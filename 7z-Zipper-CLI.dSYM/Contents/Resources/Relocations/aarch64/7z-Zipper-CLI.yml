@@ -1,5 +1,0 @@
----
-triple:          'arm64-apple-darwin'
-binary-path:     '/Users/thispc/Development/7-Zipper-CLI/7z-Zipper-CLI'
-relocations:     []
-...
